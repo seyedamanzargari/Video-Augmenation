@@ -1,3 +1,3 @@
 # VidAug
 
-System for video augmentation.
+Tool for video augmentation.
