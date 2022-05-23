@@ -1,10 +1,10 @@
 import albumentations as A
 import random
 from tqdm import tqdm
-from utils import get_filters
+from .utils import get_filters
 import os
 import shutil
-from utils import read_video, write_video
+from .utils import read_video, write_video
 import warnings
 warnings.filterwarnings("ignore")
 
